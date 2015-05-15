@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- DEBUT DES METADONNEES -->
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/" />
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+<!-- TemplateBeginEditable name="head" -->
+<meta name="dc.subject" content="Accueil - David Lépine, Kinésiologue-kinésithérapeute"/>
+<!-- TemplateEndEditable -->
+<meta name="dc.title" content="Site Web de David Lépine, Kinésiologue-kinésithérapeute" />
+<meta name="dc.creator" content="David Lépine, Kinésiologue-kinésithérapeute" />
+<meta name="dc.language" scheme="ISO639-2/T" content="fra" />
+<meta name="dcterms.modified" scheme="W3CDTF" content="2011-06-17" />
+<meta name="description" content="David Lépine, Kinésiologue-kinésithérapeute, Services, Santé" />
+<meta name="dc.description" content="David Lépine, Kinésiologue-kinésithérapeute, traitements thérapeuthiques, programmes d’entraînement, course à pied, santé, massothérapie.
+" />
+<meta name="keywords" content="David Lépine, Kinésiologue-kinésithérapeute, traitements thérapeuthiques, programmes d’entraînement, course à pied, santé, massothérapie" />
+<!-- FIN DES METADONNEES -->
+<!-- DÉBUT DES LIENS -->
+<link rel="stylesheet" type="text/css" media="screen" href="../css/screen.css" />
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"  />
+<!-- FIN DES LIENS -->
+</head>
+
+<body>
+<div id="Containertemp"><!-- TemplateBeginEditable name="Header" --><div id="header">
+	<div id="logo"></div>
+
+</div><!-- TemplateEndEditable -->
+
+
+<!-- TemplateBeginEditable name="Menu" -->
+  <div id="Menu">
+<!-- Fin #DIV Menu --></div>
+
+  <div id="Contenu">
+  
+    
+  <!-- Fin #DIV Contenu --></div>
+  
+  <div id="Sidebar">
+<img src="../images/deco-running.png" width="250" height="85" alt="jambes en mouvement de course"/>
+
+</div>
+<!-- TemplateEndEditable --><!-- #BeginLibraryItem "/Library/footer.lbi" -->
+
+<div id="footer"><p>© 2015, <i>David Lépine, Kinésiologue-kinésithérapeute</i>, Tous droits réservés</p></div><!-- #EndLibraryItem --><!-- Fin #DIV Containeur --></div></body>
+</html>
