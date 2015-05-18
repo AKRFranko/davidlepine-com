@@ -101,8 +101,8 @@ window.DL = (function() {
 		}
 
 	}
+	$(createContactForm);
 
-	window.onload = createContactForm;
 
 	return DL;
 })();
