@@ -72,22 +72,21 @@ window.DL = (function() {
 	}
 
 	var submitContactForm = function(url) {
-		var form = document.getElementById('contact'),
-			request = new XMLHttpRequest(),
-			data = readContactForm();
+		var data = readContactForm();
 
 		if (data) {
-			form.disabled = true;
-			request.open('POST', url, true);
-			request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
-			request.setRequestHeader('Accept', 'application/json');
-			request.send(JSON.stringify(data));
+			$.ajax({
+				url: url,
+				method: "POST",
+				data: data,
+				dataType: "json",
+				success: function() {
+					$('#contact').html('<p>Merci!</p>');
+				}
+			});
 		}
-		clearTimeout(submitContactForm.__TO);
-		submitContactForm.__TO = setTimeout(function() {
-			form.disabled = false;
-			form.reset();
-		}, 2000);
+
+
 	}
 
 	var createContactForm = function() {
